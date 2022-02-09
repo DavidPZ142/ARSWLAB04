@@ -1,4 +1,4 @@
 # ARSWLAB04
-* David Pérez *
+* David Pérez 
+* Nicolas Camacho
 
-Nicolas Camacho
