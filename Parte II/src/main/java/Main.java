@@ -20,7 +20,7 @@ public class Main {
         Point[] pts=new Point[]{new Point(7, 10),new Point(3, 4),new Point(5, 6),new Point(7, 10),new Point(7, 10)};
         Blueprint a = new Blueprint("David","Extreme",pts);
         blueprintsServices.addNewBlueprint(a);
-        
+
         blueprintsServices.addNewBlueprint(new Blueprint("David", "Monalisa",pts));
         System.out.println(blueprintsServices.getBlueprint("David","Monalisa"));
         System.out.println(blueprintsServices.getBlueprintsByAuthor("David"));
