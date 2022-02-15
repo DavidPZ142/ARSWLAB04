@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/ARSWLAB04.iml" filepath="$PROJECT_DIR$/.idea/ARSWLAB04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte I/SPRING_DIP_DI_DEMO.iml" filepath="$PROJECT_DIR$/Parte I/SPRING_DIP_DI_DEMO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parte II/blueprints-middleware.iml" filepath="$PROJECT_DIR$/Parte II/blueprints-middleware.iml" />
+    </modules>
+  </component>
+</project>
